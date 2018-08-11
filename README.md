@@ -16,7 +16,7 @@ On the left side of your screen, you will see the list of strings in the file, a
 
 Do your best when translating, nobody appreciates word-for-word translations, so make sure your translations sound natural and are grammatically correct.
 
-If you feel like you need context in order to translate a string and you are unable to find it in the bot, feel free to ask for help in our Discord server \(for a quick response\) or to use the Request Context button on Crowdin. Try to make sure your suggestion doesn’t conflict with other translations before submitting it. For example if someone has translated `You need to give me the volume level!` into `Meg kell adnod a hangerőt!`, you are required to use the same term when translating the string `You need to give me a package name`, so it would look like `Meg kell adnod egy csomag nevét`.
+If you feel like you need context in order to translate a string and you are unable to find it in the bot, feel free to ask for help in [our Discord server](https://support.switchblade.xyz/) \(for a quick response\) or to use the Request Context button on Crowdin. Try to make sure your suggestion doesn’t conflict with other translations before submitting it. For example if someone has translated `You need to give me the volume level!` into `Meg kell adnod a hangerőt!`, you are required to use the same term when translating the string `You need to give me a package name`, so it would look like `Meg kell adnod egy csomag nevét`.
 
 Low-effort or machine translations are really not good. Always check your translations against the original for any missing text or other issues such as broken markdown or wrongfully placed variables before submitting them. It’s important to remain active and all contributions you make are appreciated, but remember that quality always comes over quantity.
 
@@ -30,7 +30,9 @@ If you suggest a translation, you are welcome to suggest it but do not downvote 
 
 Start using Switchblade in your language on your server to notice translation errors, report them to your team or directly through Crowdin and come up with a solution!
 
+Here's an [invite ](https://invite.switchblade.xyz/)to Switchblade, so you can look at every setting, command and feature.
+
 ## Remain active and become a part of the community
 
-Keep suggesting translations whenever you have the time. Become friends with other members of the team and a part of the community. Your contributions to Switchblade will forever be appreciated by users who only speak your language.
+Keep suggesting translations whenever you have the time. Become friends with other members of the team and a part of the [community](http://switchblade.xyz/contributors). Your contributions to Switchblade will forever be appreciated by users who only speak your language.
 
