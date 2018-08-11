@@ -4,7 +4,7 @@ We’re glad to have you here and we hope you will enjoy your time helping us ou
 
 This is just a little quick incomplete startup guide, a lot more information about Crowdin can be found at [here](https://support.crowdin.com/crowdin-intro/).
 
-We highly suggest reading [https://support.crowdin.com/online-editor/](https://support.crowdin.com/online-editor/) before you start translating because it talks about all of Crowdin’s built-in translator tools that are going to make your job a lot easier!
+We highly suggest reading [Crowdin's guide](https://support.crowdin.com/online-editor/) before you start translating because it talks about all of Crowdin’s built-in translator tools that are going to make your job a lot easier!
 
 ## Getting Started with Crowdin
 
