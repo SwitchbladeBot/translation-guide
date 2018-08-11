@@ -1,6 +1,6 @@
 # Welcome to the translators guide!
 
-![translation](https://i.imgur.com/UVIAzg0.gif)
+![](https://i.imgur.com/UVIAzg0.gif)
 
 We’re glad to have you here and we hope you will enjoy your time helping us out by translating the bot into your language. We know this whole thing may seem a bit hard at first, there is definitely a bit of a learning curve, but below you can find a set of guidelines that should make this process a little bit easier.
 
