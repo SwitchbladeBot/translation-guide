@@ -1,6 +1,8 @@
-# aaaaaaaaaaaaa
+# Translate Guide
 
-## Getting Super Powers
+## Welcome!
+
+![](https://i.imgur.com/mjAeDnv.gif)
 
 Becoming a super hero is a fairly straight forward process:
 
