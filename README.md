@@ -63,7 +63,7 @@ This is not a variable and does not contain any markdown. You should translate t
 4. `` <user to kiss> ``
 
 
-This is not a variable and does not contain any markdown. You should translate the content of `\< \>` marks.
+This is not a variable and does not contain any markdown. You should translate the content of `` < > `` marks.
 
 5. `` Language changed successfully to `{{lang}}`! ``
 
