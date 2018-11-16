@@ -30,9 +30,18 @@ If you suggest a translation, you are welcome to suggest it but do not downvote 
 
 Start using Switchblade in your language on your server to notice translation errors, report them to your team or directly through Crowdin and come up with a solution!
 
-Here's an [invite ](https://invite.switchblade.xyz/)to Switchblade, so you can look at every setting, command and feature.
+Here's an [invite](https://invite.switchblade.xyz/) to Switchblade, so you can look at every setting, command and feature.
 
 ## Remain active and become a part of the community
 
 Keep suggesting translations whenever you have the time. Become friends with other members of the team and a part of the [community](http://switchblade.xyz/contributors). Your contributions to Switchblade will forever be appreciated by users who only speak your language.
+
+
+
+
+# Frequently Asked Questions
+
+## Where is this sentence used?
+
+That's a tough question but thankfully, our team is on it. On Crowdin you can check the given string's context menu for useful information, some of them even have a picture attached. Otherwise try searching for it by using the bot, or ask other translators in [our Discord server](https://support.switchblade.xyz/)
 
