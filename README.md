@@ -39,9 +39,34 @@ Keep suggesting translations whenever you have the time. Become friends with oth
 
 
 
+# Variables and markdown
+
+The strings which Switchblade uses may contain variables, and markdown. Variables are replaced by the bot with the appropriate content, and markdown is interpreted by Discord. To learn more about Discord's markdown, take a look at [this article](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-).
+
+Here are some examples for strings, which contain variable(s), markdown, or both.
+
+1. `You can do it again in **{{time}}**`
+In this example `{{time}}` is a variable, and `*` marks at the beginning and the ending are for the use of Discord markdown. Translate everything, except the variable.
+
+2. `You've received **$t(commons:currencyWithCount, { 'count': {{count}} })** as your daily reward`
+This string seems a bit more complicated. `*` marks are again for Discord markdown. The content surrounded by these marks, is a variable. You should copy that as is into the translation, do not change that. You should translate every other bit of the string.
+
+3. `[keresendő felhasználó]`
+This is not a variable and does not contain any markdown. You should translate this.
+
+4. `<user to kiss>`
+This is not a variable and does not contain any markdown. You should translate the content of `< >` marks.
+
+5. `Language changed successfully to `{{lang}}`!`
+This contains one variable `{{lang}}` and ` ` ` marks for Discord markdown. You should translate everything except the variable.
+
+
+
+
+
 # Frequently Asked Questions
 
 ## Where is this sentence used?
 
-That's a tough question but thankfully, our team is on it. On Crowdin you can check the given string's context menu for useful information, some of them even have a picture attached. Otherwise try searching for it by using the bot, or ask other translators in [our Discord server](https://support.switchblade.xyz/)
+That's a tough question but thankfully, our team is on it. On Crowdin you can check the given string's context menu for useful information, some of them even have a picture attached. Otherwise try searching for it by using the bot, or ask other translators in [our Discord server](https://support.switchblade.xyz/).
 
