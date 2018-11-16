@@ -58,7 +58,7 @@ This is not a variable and does not contain any markdown. You should translate t
 This is not a variable and does not contain any markdown. You should translate the content of `< >` marks.
 
 5. `Language changed successfully to `{{lang}}`!`
-This contains one variable `{{lang}}` and ` ` ` marks for Discord markdown. You should translate everything except the variable.
+This contains one variable `{{lang}}` and ` marks for Discord markdown. You should translate everything except the variable.
 
 
 
