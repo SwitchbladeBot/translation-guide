@@ -45,19 +45,29 @@ The strings which Switchblade uses may contain variables, and markdown. Variable
 
 Here are some examples for strings, which contain variable(s), markdown, or both.
 
-1. `You can do it again in **{{time}}**`
+1. You can do it again in **{{time}}**
+
+
 In this example `{{time}}` is a variable, and `*` marks at the beginning and the ending are for the use of Discord markdown. Translate everything, except the variable.
 
-2. `You've received **$t(commons:currencyWithCount, { 'count': {{count}} })** as your daily reward`
+2. You've received **$t(commons:currencyWithCount, { 'count': {{count}} })** as your daily reward
+
+
 This string seems a bit more complicated. `*` marks are again for Discord markdown. The content surrounded by these marks, is a variable. You should copy that as is into the translation, do not change that. You should translate every other bit of the string.
 
-3. `[keresendő felhasználó]`
+3. [keresendő felhasználó]
+
+
 This is not a variable and does not contain any markdown. You should translate this.
 
-4. `<user to kiss>`
+4. <user to kiss>
+
+
 This is not a variable and does not contain any markdown. You should translate the content of `< >` marks.
 
-5. `Language changed successfully to `{{lang}}`!`
+5. Language changed successfully to `{{lang}}`!
+
+
 This contains one variable `{{lang}}` and ` marks for Discord markdown. You should translate everything except the variable.
 
 
