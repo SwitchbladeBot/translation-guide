@@ -8,7 +8,7 @@ We highly suggest reading [Crowdin's guide](https://support.crowdin.com/online-e
 
 ## Getting Started with Crowdin
 
-Crowdin has a pretty simple user interface and the more you use it, the quicker you will start getting accustomed to it. To start translating you need to select your language from [the list](https://crowdin.com/project/switchblade) and then select one of the files or choose the Translate All option at the top. Shortcut to All files with language selection can be found [here](https://crowdin.com/translate/switchblade/all/en-).
+Crowdin has a pretty simple user interface and the more you use it, the quicker you will start getting accustomed to it. To start translating you need to select your language from [the list](https://crowdin.com/project/switchblade) and then select one of the files or choose the **Translate All** option at the top. Shortcut to **All files with language selection** can be found [here](https://crowdin.com/translate/switchblade/all/en-).
 
 On the left side of your screen, you will see the list of strings in the file, all details about the string you are translating are displayed in the middle and right sections. Once you are done translating, hit save and your translation will get added to the list.
 
@@ -22,7 +22,7 @@ Low-effort or machine translations are really not good. Always check your transl
 
 ## Voting and Why it's so Important
 
-You should always upvote correct translations to make the proofreader’s job easier. If your language doesn’t have a proofreader, you absolutely need to vote on translations so that translation managers can approve strings, because they don't understand every language. Also, think of it as feedback for the person who made the suggestion, they will know what to improve on in the future. Crowdin has a voting mode that can be accessed from View &gt; Voting Mode, it’s a true life saver when you want to vote on many suggestions.
+You should always upvote correct translations to make the proofreader’s job easier. If your language doesn’t have a proofreader, you absolutely need to vote on translations so that translation managers can approve strings, because they don't understand every language. Also, think of it as feedback for the person who made the suggestion, they will know what to improve on in the future. Crowdin has a voting mode that can be accessed from **View &gt; Voting Mode**, it’s a true life saver when you want to vote on many suggestions.
 
 If you suggest a translation, you are welcome to suggest it but do not downvote other translations just because they are not yours. The downvote button should be used only for errors in suggestions, bad translations and suggestions not based on context. Abusing the downvote feature may result in removing you from the project and team.
 
